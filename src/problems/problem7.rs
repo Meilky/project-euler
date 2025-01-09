@@ -25,10 +25,10 @@ pub fn solve() -> usize {
 
 #[cfg(test)]
 mod tests {
-    use super::*;
+    use super::solve;
 
     #[test]
-    fn test_problem7() {
+    fn test_problem_7() {
         assert_eq!(solve(), 104743);
     }
 }

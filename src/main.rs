@@ -9,4 +9,5 @@ fn main() {
 
     println!("Problem 5 result: {}", problems::problem5::solve());
     println!("Problem 6 result: {}", problems::problem6::solve());
+    println!("Problem 7 result: {}", problems::problem7::solve());
 }

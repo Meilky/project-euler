@@ -1,5 +1,5 @@
 mod problems;
 
 fn main() {
-    println!("To run a specific problem, run \"cargo test <# problem>\"");
+    println!("Please check the read me to run a problem, thank you.");
 }
